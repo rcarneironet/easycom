@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Easycom.Core\Easycom.Core.csproj" />
+    <ProjectReference Include="..\Easycom.Data.EF\Easycom.Data.EF.csproj" />
+  </ItemGroup>
+
+</Project>
