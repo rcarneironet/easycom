@@ -8,7 +8,6 @@ This is a project to showcase how to create a clean architecture using following
 - .NET Core 2.2 RESTful API
 - Entity Framework Core
 - Clean Architecture
-- Domain Driven Design Approach
 - Angular 7
 - TypeScript
 - Dependency Injection
