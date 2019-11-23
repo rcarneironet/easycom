@@ -7,11 +7,10 @@ This is a project to showcase how to create a clean architecture using following
 
 - .NET Core 2.2 RESTful API
 - Entity Framework Core
-- Clean Architecture
 - Angular 7
 - TypeScript
 - Dependency Injection
-- SOLID
+- SOLID (no all)
 
 In order to install and use this sample, you need to:
 
