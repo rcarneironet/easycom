@@ -3,14 +3,13 @@ Architecture and Project sample for EasyCom
 
 ![](https://easycomtec.blob.core.windows.net/easycomtec/logo-header.png)
 
-This is a project to showcase how to create a clean architecture using following technologies and concepts:
+This is a project to showcase how to create a sample architecture using following technologies and concepts:
 
 - .NET Core 2.2 RESTful API
 - Entity Framework Core
 - Angular 7
 - TypeScript
 - Dependency Injection
-- SOLID (no all)
 
 In order to install and use this sample, you need to:
 
